@@ -1,0 +1,7 @@
+/* ==========================================================================
+   Legacy font faces reproduced verbatim from the MeatKing template zip.
+   Source: css/bootstrap.min.css (Glyphicons Halflings).
+   The original font files were not included in the uploaded zip. The rule is
+   preserved unchanged so existing markup keeps its original font stack.
+========================================================================== */
+@font-face{font-family:'Glyphicons Halflings';src:url(../fonts/glyphicons-halflings-regular.eot);src:url(../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'),url(../fonts/glyphicons-halflings-regular.woff2) format('woff2'),url(../fonts/glyphicons-halflings-regular.woff) format('woff'),url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')}
